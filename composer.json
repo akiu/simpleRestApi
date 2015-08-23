@@ -1,0 +1,14 @@
+{
+    "name": "akiujih/alto",
+    "authors": [
+        {
+            "name": "akiu",
+            "email": "ricky3andika@gmail.com"
+        }
+    ],
+    "require": {
+      "altorouter/altorouter": "1.1.0",
+      "vrana/notorm": "dev-master",
+      "gamegos/jwt": "~0.1"
+    }
+}
